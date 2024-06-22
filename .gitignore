@@ -1,4 +1,5 @@
 venv/
+Simple_model.ipynb
 
 model_LSTM.ipynb
 Data_set/best_5songs_perartist.csv
