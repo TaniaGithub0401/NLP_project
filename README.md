@@ -5,7 +5,6 @@ This project focuses on the preprocessing, classification, and generation of son
 ## Datasets
 
 The project utilizes several datasets, each containing a different number of songs per artist:
-- `best_5songs_perartist.csv`
 - `best_10songs_perartist.csv`
 - `best_20songs_perartist.csv`
 - `best_50songs_perartist.csv`
@@ -23,7 +22,7 @@ The project utilizes several datasets, each containing a different number of son
 
     ```sh
     python3 -m venv venv
-    ource venv/bin/activate  
+    source venv/bin/activate  
     # On Windows: venv\Scripts\activate
 
 ## Data Preprocessing
