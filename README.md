@@ -26,11 +26,6 @@ The project utilizes several datasets, each containing a different number of son
     ource venv/bin/activate  
     # On Windows: venv\Scripts\activate
 
-3. **Install Required Packages:**
-
-    ```sh
-    pip install -r requirements.txt
-
 ## Data Preprocessing
 
 ### Tokenization
